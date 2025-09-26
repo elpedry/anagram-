@@ -1,2 +1,2 @@
 # first-repo
-if you are reading this then you are a lucky one
+this first repository serve as a practice for future projects...
